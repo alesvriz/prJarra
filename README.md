@@ -1,3 +1,4 @@
 # prJarra
-Parte del ejercicio de Jarra: cantidad y capacidad.
+Esta practica se realizara por el grupo formado por: Omar Ismail(programador 3)
+
 
